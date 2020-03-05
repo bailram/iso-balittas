@@ -1,0 +1,15 @@
+.center {
+    margin: auto;    
+}
+
+
+
+@font-face{
+    font-family: 'Montserrat-Medium';
+    src: url('../font/Montserrat-Medium.ttf');
+}
+
+@font-face{
+    font-family: 'Merriweather-Regular';
+    src: url('/font/Merriweather-Regular.ttf');
+}
